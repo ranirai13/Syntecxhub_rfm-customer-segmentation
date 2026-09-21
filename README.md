@@ -26,7 +26,7 @@ RFM Detail
 
 Behavior
 
-![Behavior dashboard](images/03_behavior.png)
+![Behavior dashboard](behavior.jpeg)
 
 Key findings
 
