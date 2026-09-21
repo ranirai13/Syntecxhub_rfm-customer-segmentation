@@ -18,11 +18,11 @@ Dashboard preview
 
 Segmentation
 
-![Segmentation dashboard](images/01_segmentation.png)
+![Segmentation dashboard](segmentation.jpeg)
 
 RFM Detail
 
-![RFM detail dashboard](images/02_rfm_detail.png)
+![RFM detail dashboard](rfm_detail.jpeg)
 
 Behavior
 
