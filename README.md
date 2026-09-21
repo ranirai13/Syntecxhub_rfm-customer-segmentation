@@ -126,11 +126,11 @@ Marketing recommendations
 
  How to open
 
-1. Download `RFM_Customer_Segmentation.pbix`.
+1. Download "RFM_Customer_Segmentation.pbix".
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
 3. Use the buttons on the left to move between the three pages, and the Country filter on the Segmentation page.
 
-The full write-up is in [`report/RFM_Project_Report.pdf`](report/RFM_Project_Report.pdf).
+The full write-up is in [RFM_Project_Report.pdf]("RFM_Project_Report.pdf").
 
 Limitations
 
